@@ -1,0 +1,1 @@
+ALTER TABLE medicos ADD COLUMN telefone character varying(20);
